@@ -1,0 +1,22 @@
+.header-container {
+    height: 150px;
+    border-bottom: solid 2px;
+    border-bottom-color:darkseagreen;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: bolder;
+    font-size: 4.5em;
+    color: darkseagreen;
+    margin-bottom: -75px;
+    margin-top: 10px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 2.5em;
+    font-family: 'Cinzel Decorative', cursive;
+    color: darkseagreen;
+}
